@@ -7,25 +7,17 @@ Exploratory Data Analysis was perfromed on the data in order to understand what 
 
 Data was correlated with the price inorder to deduce which columns influences price.
 
-Jointplot inorder to determine the relationship between the Rooms and Price.
-
-Displot-To determine the price of the highest house, to determine the price of buildings with the highest number rooms, to Determine the price of buildings with the highest number Bathrooms.
-
-Jointplot inorder to determine the relationship between the Price and Bathrooms.
-
-Jointplot inorder to determine the relationship between the Price and Bedrooms.
+Jointplot, Distplot was carried out on the data inorder to determine relationships.
 
 ### Data Cleaning
 Missing values was detected using .isnull() function called on the data which was then visualized using seaborns heatmap.
 
-The Building Area, Year Built and Council Area Columns were dropped.
-
-The missing values in the Car Columns were filled with the mean of the columns
+Columns were dropped and columns with missing values were filled.
 
 ### Machine Learning
 Train Test Split was imported using scikit learn model selection
 
-Decision Tree Regressor was adopted for the data
+Decision Tree Regressor was adopted for the Machine learning Process.
 
 Fitting and Testing of the model was done.
 
