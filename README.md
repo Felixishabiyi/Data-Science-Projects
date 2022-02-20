@@ -32,7 +32,7 @@ key, fare_amount, pickup_datetime, passenger_count, pickup_longitude, pickup_lat
 * Training score: 0.6093692483788156
 * Test score: 0.554600748727676
 
-# [Project 3. Netflix Suscription Fee (Data Visalisatiom)](https://github.com/Felixishabiyi/Data-Science-Projects/blob/main/Netflix%20Highest%20and%20Lowest%20Suscribing%20Countries.ipynb)
+# [Project 3. Netflix Suscription Fee (Data Visualization)](https://github.com/Felixishabiyi/Data-Science-Projects/blob/main/Netflix%20Highest%20and%20Lowest%20Suscribing%20Countries.ipynb)
 Netflix is a streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, 
 and more on thousands of internet-connected devices.
 Netflix is asssesible in 190 countries, as it can be Watch anywhere, anytime by signing in with your Netflix account to watch instantly on the web 
