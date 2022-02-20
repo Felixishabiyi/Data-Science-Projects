@@ -13,10 +13,10 @@ Uber is one of the largest world's largest taxi company.
 The Dataset contains the follwoing fields.
 key, fare_amount, pickup_datetime, passenger_count, pickup_longitude, pickup_latitude, dropoff_longitude, dropoff_latitude.
 
-* The data was cleaning; Filtering and finding values for the missing data.
-* Feature engineering was done inorder to fine tune the data and get an accurate output with the model.
-* Exploratory data analysis was carried out inorder to establish relationships amongst the data.
-* Data was visualized using cufflinks, seaborn and matplotlib 
+* Data Cleaning ; Filtering and finding values for the missing data was done using pythons numpy and pandas libraries.
+* Feature Engineering was done inorder to fine tune the data and get an accurate output with the model.
+* Exploratory Data Analysis was carried out inorder to establish relationships amongst the data.
+* Data Visualization was done using cufflinks, seaborn and matplotlib 
 * Using Scikit learn, Random Forest Regressor was adopted as the model of choice because of its extreme high accuracy as it also produces better result as compared linear regression.
 * The score of the model was computed;
 * Training score is: 0.6093692483788156
