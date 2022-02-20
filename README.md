@@ -19,5 +19,5 @@ key, fare_amount, pickup_datetime, passenger_count, pickup_longitude, pickup_lat
 * Data Visualization was done using cufflinks, seaborn and matplotlib 
 * Using Scikit learn, Random Forest Regressor was adopted as the model of choice because of its extreme high accuracy as it also produces better result as compared linear regression.
 * The score of the model was computed;
-* Training score is: 0.6093692483788156
-* Test score is: 0.554600748727676
+* Training score: 0.6093692483788156
+* Test score: 0.554600748727676
