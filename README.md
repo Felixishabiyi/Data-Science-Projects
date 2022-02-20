@@ -41,7 +41,7 @@ streaming media players and game consoles.
 The Average cost of suscribing to the platform Worldwide is $15.32. 
 This is a Data Visualizatio Project. My curosity on how netflix still find it hard to penetrate the ground roots to get more suscribers in Nigeria 
 led me to get answers on Which countries pay the most and least for Netflix in 2021?
-Data was obatined from compatitech(https://www.comparitech.com/blog/vpn-privacy/countries-netflix-cost/) , The dataset conatains the following fields
+Data was obatined from [compatitech](https://www.comparitech.com/blog/vpn-privacy/countries-netflix-cost/) , The dataset conatains the following fields
 Country, Total Library Size, No. of TV Shows, No. of Movies, Cost Per Month - Basic ($), Cost Per Month - Standard ($), Cost Per Month - Premium ($).
 
 * Data was screening for missing values which was filled. After which was visualized using the heatmap plot albled by the seaborn library.
