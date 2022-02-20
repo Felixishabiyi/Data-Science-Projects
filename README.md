@@ -44,7 +44,7 @@ led me to get answers on Which countries pay the most and least for Netflix in 2
 Data was obatined from [comparitech](https://www.comparitech.com/blog/vpn-privacy/countries-netflix-cost/) , The dataset conatains the following fields
 Country, Total Library Size, No. of TV Shows, No. of Movies, Cost Per Month - Basic ($), Cost Per Month - Standard ($), Cost Per Month - Premium ($).
 
-* Data was screening for missing values which was filled. After which was visualized using the heatmap plot albled by the seaborn library.
+* Data was screening for missing values which was filled. After which was visualized using the heatmap plot abled by the seaborn library.
 * Exploratory Data Analysis was done in order to understand relationship amongst the data. From which was deduced that the Total Library Size is 
 highly correlated to the No of Movies. 
 * Data Visualization was done using the seaborn library.
