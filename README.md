@@ -1,5 +1,5 @@
 # [Project 1. MelBourne House Prediction](https://github.com/Felixishabiyi/Data-Science-Projects/blob/main/MelBourne%20House%20Prediction%20Model.ipynb)
-![alt text](MelBourne.jpg)
+![alt text](MelBournee.jpg)
 Getting an apartment is a daunting task, as a lot of questions begins to pop in one's mind, one of which is the average price to get an apartment in a particular area, city or country.
 To get an answer to this question the moments it pops in one's mind, I decided to developed a machine learning model that predicts the total cost to get an apartment in MelBourne, Austrailia.
 The data was obained from Kaggle.com, the data was scraped from publicly available results posted every week from Domain.com.au which was also has 
