@@ -5,7 +5,7 @@
 * Decision Tree Regressor Model was adopted as the model. 
 
 # [Project 2. Uber Price Prediction](https://github.com/Felixishabiyi/Data-Science-Projects/blob/main/Uber%20Price%20Prediction.ipynb)
-A lot of individuals will prefer to be pre-informed of the average amount they will be paying per trip using a ride-hailing service(i.e Uber, Bolt).
+Individuals will prefer to be pre-informed about the fare they will be paying per trip using a ride-hailing service(i.e Uber, Bolt).
 This however made me to develop a tool that will predict the average amount an individual will be paying for using such service.
 To Build this tool, data was obatined from kaggle.com. 
 The dataset conatains the past records of all activities and transactions that have taken place on Uber Inc. 
