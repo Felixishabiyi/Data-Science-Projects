@@ -31,3 +31,23 @@ key, fare_amount, pickup_datetime, passenger_count, pickup_longitude, pickup_lat
 * The score of the model was computed;
 * Training score: 0.6093692483788156
 * Test score: 0.554600748727676
+
+# [Project 3. Netflix Suscription Fee (Data Visalisatiom)](https://github.com/Felixishabiyi/Data-Science-Projects/blob/main/Netflix%20Highest%20and%20Lowest%20Suscribing%20Countries.ipynb)
+Netflix is a streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, 
+and more on thousands of internet-connected devices.
+Netflix is asssesible in 190 countries, as it can be Watch anywhere, anytime by signing in with your Netflix account to watch instantly on the web 
+at netflix.com from your personal computer or on any internet-connected device that offers the Netflix app, including smart TVs, smartphones, tablets, 
+streaming media players and game consoles. 
+The Average cost of suscribing to the platform Worldwide is $15.32. 
+This is a Data Visualizatio Project. My curosity on how netflix still find it hard to penetrate the ground roots to get more suscribers in Nigeria 
+led me to get answers on Which countries pay the most and least for Netflix in 2021?
+Data was obatined from  https://www.comparitech.com/blog/vpn-privacy/countries-netflix-cost/ , The dataset conatains the following fields
+Country, Total Library Size, No. of TV Shows, No. of Movies, Cost Per Month - Basic ($), Cost Per Month - Standard ($), Cost Per Month - Premium ($).
+
+* Data was screening for missing values which was filled. After which was visualized using the heatmap plot albled by the seaborn library.
+* Exploratory Data Analysis was done in order to understand relationship amongst the data. From which was deduced that the Total Library Size is 
+highly correlated to the No of Movies. 
+* Data Visualization was done using the seaborn library.
+* From the barplot, it can be deduced that Croatia and SanMarino has the lowest library size with Croatia being the lowest of about < 2500 Movies
+* From the second barplot, It was also deduced that the highest paying country as regards Cost Per Month - Premium ($) is Switzerland($28) while 
+the lowest paying country is Turkey(<$5).
